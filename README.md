@@ -1,5 +1,4 @@
 # sciative_assignment_devops1
-# DevOps Assignment
 
 ## Stack
 - FastAPI (Backend)
