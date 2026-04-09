@@ -18,7 +18,7 @@
 ### Backend
 cd backend
 pip install -r requirements.txt
-gunicorn -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:8000
+gunicorn -k uvicorn.workers.UvicornWorker   main:app --bind 127.0.0.1:8000
 
 ### Frontend
 cd frontend
